@@ -1,1 +1,1 @@
-[art] pic1.jpg
+![art] (https://octodex.github.com/images/yaktocat.png)
